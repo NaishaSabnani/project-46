@@ -7,7 +7,7 @@ var girl, girlStill,girlRunning, girlRunningImg, girlRunningRight, girlRunningRi
 var coin, coinImg
 var life=3, lifeImg_3, lifeImg_2, lifeImg_1, lifeImge_0,lifeObj
 var power, powerImg
-var stone1,stone2,stone3,stone4, stoneImg1, stoneImg2, stoneImg3, stoneImg4
+var stone1,stone2,stone3,stone4, stoneImg1, stoneImg2, stoneImg3, stoneaImg4
 var score=0;
 
 //var PLAY, SERVE, END
